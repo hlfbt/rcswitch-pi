@@ -11,10 +11,14 @@ A compiled binary for armv6l is included in the repository.
 
 ## Usage
 
-`./send <channel> <switch> <command>'
+```
+./send <channel> <switch> <command>
+```
 
 So for instance:
 
-`./send 4 1 1`
+```
+./send 4 1 1
+```
 
 To send "ON" to the first switch of the third channel.
